@@ -1,1 +1,3 @@
 here we go chapter2
+
+and here we are lauching script-plot
